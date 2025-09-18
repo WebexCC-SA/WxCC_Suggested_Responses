@@ -22,7 +22,7 @@ icon: material/bullseye-arrow
 
 <!-- Markdown content with embedded HTML -->
 <div>
-    <h2>Please submit the form below with your Attendee ID.</h2> 
+    <h2>**Enter your Last Name as the Attendee ID**</h2> 
     <h3>All configuration entries in the lab guide will be renamed to include your Attendee ID.</h3>
     <form id="info">
         <label for="attendee">Attendee ID:</label>
