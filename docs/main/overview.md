@@ -35,18 +35,28 @@ icon: material/bullseye-arrow
     <p>Your stored Attendee ID is:<w class="attendee"> No ID stored</w></p>
 </div>
 
-# Overview
+## Login Credentials. 
 
-## Use Case 
+Choose from any login credentials in the list below:
+
+
+## What is Suggested Responses
+
+Suggested Responses uses AI and natural language processing (NLP) to analyze incoming customer messages in real time. Based on the customer’s query or message, the system presents agents with relevant, pre-composed response options based on the uploaded knowledgebase. Agents can review, edit, and send these responses, improving efficiency and consistency in customer communication. <br>
+
+Key Benefits<br>
+
+Increased Agent Productivity: Agents spend less time crafting responses from scratch.<br>
+Consistency: Ensures standardized, high-quality messaging across agents.<br>
+Faster Response Times: Reduces wait times for customers by accelerating agent replies.<br>
+Reduced Training Time: New agents can leverage AI-suggested responses to handle queries more effectively.<br>
 
 ## Suggested Responses AI Assistant Feature for Flower Shop
 
 
-### Suggested Responses Capabilities
-
-- **Recommending flowers** based on customer preferences or occasions and share it with agent. 
-- **Calculating total price** in real time and share it with agent.  
-- **Check order status** based on provided order ID and share it with agent. 
+- **Recommending flowers** based on customer preferences or occasions and share it with the agent. 
+- **Calculating total price** in real time and share it with the agent.  
+- **Check order status** based on provided order ID, and share it with the agent. 
 
     
 ## Disclaimer
