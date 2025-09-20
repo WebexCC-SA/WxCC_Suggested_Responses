@@ -74,6 +74,18 @@ Channel_Suggested_Rerponses_5 <br>
 9. Open up the Channle and select the the flow **<copy><w class="attendee"></w>_SR_Voice_Flow</copy>**. Select a Music on hold file and lable as **Latest**
     ![Profiles](../graphics/Lab1_AI_Agent/9.53.gif)
 
+
+10. At this point you should have the following configurations:
+
+> Entry Point/Channels:  **Check with proctor**
+
+> Flow: **<copy><w class="attendee"></w>_SR_Voice_Flow</copy>**
+
+> Queue:  **<copy><w class="attendee"></w>_SR_Voice_Queue</copy>**
+
+> Team:  **<copy><w class="attendee"></w>_SR_Team</copy>**
+
+
 ### Task 4. Test inbound call delivery to the Agent Desktop. 
 
 1. Login to the **Desktop**. You can do it from **Quick Links** section. 
@@ -97,19 +109,10 @@ Channel_Suggested_Rerponses_5 <br>
 
 
 
-> Entry Point/Channels:  **<copy><w class="attendee"></w>_2000_Channel</copy>**
 
-> Queue:  **<copy><w class="attendee"></w>_2000_Voice_Queue</copy>**
 
-> Team:  **<copy><w class="attendee"></w>_2000_Team</copy>**
 
-> Admin:   **<copy>wxcclabs+admin_ID<w class="attendee"></w>@gmail.com</copy>**
 
-> Webex App has been pre-installed on your Lab PC
-
-> Assigned Inbound Channel Number: **Provided by Lab Instructor**
-
-More pre-configured entities will be mentioned during the lab missions if they have any.
 
 
 

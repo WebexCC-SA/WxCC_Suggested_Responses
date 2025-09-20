@@ -13,7 +13,6 @@ Additionally, if a customer wants to track their order status, the Suggested Res
 
 ## Call Flow Overview
 
-1. A new call enters the voice flow.
-2. The AI agent transfers the call to a human agent based on the caller’s request.
-3. While connected to the agent, the Suggested Responses feature recommends responses to the agent based on the uploaded documentation.
-4. If the customer asks to track an order, the Suggested Responses feature places an API call to a third-party application to retrieve the order status.
+1. A new call enters the voice flow and connectes to an agent. 
+2. While connected to the agent, the Suggested Responses feature recommends responses to the agent based on the uploaded documentation.
+3. If the customer asks to track an order, the Suggested Responses feature places an API call to a third-party application to retrieve the order status.
