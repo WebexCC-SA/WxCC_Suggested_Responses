@@ -75,7 +75,7 @@ Create a Knowledge Base for the AI Assistant skill to use. This knowledge base w
 3.  Select **Event Flows**. Drag and drop **Start Media Stream** block and connect **AgentAnswered** block to the **Start Media Stream** block. Drag and drop **End Flow** node and connect **Start Media Stream** block to the **End Flow** block. 
     ![Profiles](../graphics/Lab1_AI_Agent/9.61.gif)
 
-4. Validate and Publish the flow. 
+4. Validate and Publish the flow with **Latest** task. 
     ![Profiles](../graphics/Lab1_AI_Agent/9.62.png)
 
 ### Task 5. Test Suggested Respondes Feature.

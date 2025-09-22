@@ -56,7 +56,7 @@ Before you test Suggested Responses, we need to configure basic inbound call flo
 5. Add **Play Music** node. Connect **Queue Contact** node to the **Play Music** node. Loop **Play Music** node to itself. Select default music in queue file in the **Play Music** node. 
     ![Profiles](../graphics/Lab1_AI_Agent/9.50.gif)
 
-6. Validate and Publish the flow with **Live** label. 
+6. Validate and Publish the flow with **Latest** label. 
     ![Profiles](../graphics/Lab1_AI_Agent/9.51.png)
 
 
@@ -103,6 +103,9 @@ Channel_Suggested_Rerponses_5 <br>
 5. Answer the inbound call
     ![Profiles](../graphics/Lab1_AI_Agent/9.58.png)
 
+6. If you are able to answer the call you can continue to the **Suggested Responses** lab. 
+
+<p style="text-align:center"><strong>Congratulations, you have officially completed Getting Started section! 🎉🎉 </strong></p>
 
 
 
