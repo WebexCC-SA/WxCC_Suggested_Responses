@@ -68,10 +68,10 @@ Channel_Suggested_Rerponses_4 <br>
 Channel_Suggested_Rerponses_5 <br>
     ![Profiles](../graphics/Lab1_AI_Agent/9.52.png)
 
-8. Note what number is assositaed with your Channel. You will use it for furhter testings. 
+8. Note what number is associated with your Channel. You will use it for further testings. 
     ![Profiles](../graphics/Lab1_AI_Agent/9.57.png)
 
-9. Open up the Channle and select the the flow **<copy><w class="attendee"></w>_SR_Voice_Flow</copy>**. Select a Music on hold file and lable as **Latest**
+9. Open up the Channel and select the the flow **<copy><w class="attendee"></w>_SR_Voice_Flow</copy>**. Select a Music on hold file and lable as **Latest**
     ![Profiles](../graphics/Lab1_AI_Agent/9.53.gif)
 
 

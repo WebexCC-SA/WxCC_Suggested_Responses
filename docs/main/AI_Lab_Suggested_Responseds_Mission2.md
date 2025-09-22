@@ -60,12 +60,12 @@ Required: **Yes**
 6. For the fulfillment flow select the Service **<copy><w class="attendee"></w>_Service</copy>** and the flow **<copy>Track_Order_Flowers</copy>**, that you have created in the previous Tasks. Then click **Add**.
     ![Profiles](../graphics/Lab1_AI_Agent/9.25.png)
 
-7. Publish the recent changies of the Skill. 
+7. Publish the recent changes of the Skill. 
     ![Profiles](../graphics/Lab1_AI_Agent/9.26.png)
 
 ### Task 3. Configure Fulfillment flow in Webex Connect. 
 
-1. Open up Webex Connect. Findthe service **<w class="attendee"></w>_Service** and open up flow: **Track_Order_Flowers**. Click on **Edit** the flow. 
+1. Open up Webex Connect. Findthe the service **<w class="attendee"></w>_Service** and open up flow: **Track_Order_Flowers**. Click on **Edit** the flow. 
     ![Profiles](../graphics/Lab1_AI_Agent/9.27.gif)
 
 2. Add **HTTP Request** node to the flow and connect **Configure AI Agent Event** node to this **HTTP Reqeust** node. 
@@ -115,7 +115,7 @@ Required: **Yes**
 
 3. Ask the AI Agent to transfer the call to the human agent. 
 
-4. Once the call is connected to the Agent Desktop, select the AI widgit and then click on Get suggestions. 
+4. Once the call is connected to the Agent Desktop, select the AI widget and then click on Get suggestions. 
     ![Profiles](../graphics/Lab1_AI_Agent/9.34.png)
 
 5. As the caller say that you would like to track an order. You will see the suggestion will come up to ask for the order number. 

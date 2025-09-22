@@ -47,13 +47,13 @@ Create a Knowledge Base for the AI Assistant skill to use. This knowledge base w
 
 ### Task 2. Creat AI Assistant skills.
 
-1. Select **AI Dashboard** and click on **Creat skills**.
+1. Select **AI Dashboard** and click on **Create skills**.
     ![Profiles](../graphics/Lab1_AI_Agent/9.6.png)
 
 2. Select **Start from scretch** and click **Next**.
     ![Profiles](../graphics/Lab1_AI_Agent/9.7.gif)
 
-3. Name the skill as **<copy><w class="attendee"></w>_Suggested_Responses_Skill</copy>**. Discribe the goals as **<copy>Answer question about flower suggestion, flower availability, prices, delivery cost and order status.</copy>**. And then click on **Creat**.
+3. Name the skill as **<copy><w class="attendee"></w>_Suggested_Responses_Skill</copy>**. Discribe the goals as **<copy>Answer question about flower suggestion, flower availability, prices, delivery cost and order status.</copy>**. And then click on **Create**.
     ![Profiles](../graphics/Lab1_AI_Agent/9.8.png)
 
 4. Link the knowledge base to the skill in the **Knowledge** section. **Save** and **Publish** the changies. 
@@ -78,7 +78,7 @@ Create a Knowledge Base for the AI Assistant skill to use. This knowledge base w
 4. Validate and Publish the flow with **Latest** task. 
     ![Profiles](../graphics/Lab1_AI_Agent/9.62.png)
 
-### Task 5. Test Suggested Respondes Feature.
+### Task 5. Test Suggested Responses Feature.
 
 1. Log in to the Agent Desktop.
     ![Profiles](../graphics/Lab1_AI_Agent/9.15.png)
