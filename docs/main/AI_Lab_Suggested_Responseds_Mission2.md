@@ -22,14 +22,13 @@ Configure the fulfillment flow to track the status of existing orders. This func
 1. From the Control Hub login to Webex Connect.
     ![Profiles](../graphics/Lab1_AI_Agent/9.16.png)
 
-
-2. Navigate to the Service that you have created in the previous lab - **<copy><w class="attendee"></w>_Service</copy>**
-    ![Profiles](../graphics/Lab1_AI_Agent/9.17.gif)
+2. Create new service with name **<copy><w class="attendee"></w>_Service</copy>**
+    ![Profiles](../graphics/Lab1_AI_Agent/9.63.gif)
 
 3. Creat new flow. Name it **<copy>Track_Order_Flowers</copy>**.
     ![Profiles](../graphics/Lab1_AI_Agent/9.18.gif)
 
-4. Select **Integration** as **AI Agent**. Parse the values in the AI Agent block and **Make Live** the flow. We will configure it in a later Task. For now, we just need to create the flow that will be used to complete the Action Configuration on the AI Studio side.
+4. Select **Integration** as **AI Agent**. **Parse** the values in the AI Agent block **Save** and **Make Live** the flow. We will configure it in a later Task. For now, we just need to create the flow that will be used to complete the Action Configuration on the AI Studio side.
     ![Profiles](../graphics/Lab1_AI_Agent/9.19.gif)
 
 ### Task 2. Configure Action in AI Studio portal. 
